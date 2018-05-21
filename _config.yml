@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Resume: "https://github.com/kapil23vt/Resume---May-2018/blob/master/Resume%20-%20Kapil%20Kale.pdf"
+    - Resume: "https://github.com/kapil23vt/Resume/blob/master/Resume%20-%20Kapil%20Kale.pdf"
     - LinkedIn: "https://www.linkedin.com/in/kalekapil/"
     - GitHub: "https://github.com/kapil23vt"
   Author's home: "http://deanattali.com"
