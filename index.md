@@ -1,8 +1,6 @@
-## Welcome to Github Pages
+##### Welcome!
 
-You can use the [editor on Github](https://www.facebook.com/k.kapilkale)
+Hi, I'm Kapil
 
-# Header 1
-## Header 2
-### Header 3
+# Software Engineer / Reader / Explorer
 
