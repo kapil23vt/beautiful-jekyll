@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Welcome to Kapil's Website!
+title: Welcome to My Website!
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -26,7 +26,7 @@ navbar-links:
   Resume: "https://github.com/kapil23vt/Resume/blob/master/Resume%20-%20Kapil%20Kale.pdf"
   LinkedIn: "https://www.linkedin.com/in/kalekapil/"
   GitHub: "https://github.com/kapil23vt"
-  Email: "kapilk@vt.edu"
+  Email: "mailto:kapilk@vt.edu"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -42,14 +42,14 @@ avatar: "/img/Profile.jpeg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+  name: Kapil Kale
+  email: "kapilk@vt.edu"
+  facebook: k.kapilkale  # eg. daattali
+  github: kapil23vt    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
+  linkedin: in/kalekapil  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
@@ -61,13 +61,13 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
@@ -78,8 +78,8 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
   linkedin: true
 
