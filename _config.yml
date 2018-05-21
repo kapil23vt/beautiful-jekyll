@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Kapil Kale Website
+title: Welcome to Kapil's Website!
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -25,9 +25,9 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Resume: "https://github.com/kapil23vt/Resume---May-2018/blob/master/Resume%20-%20Kapil%20Kale.pdf"
+    - LinkedIn: "https://www.linkedin.com/in/kalekapil/"
+    - GitHub: "https://github.com/kapil23vt"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
